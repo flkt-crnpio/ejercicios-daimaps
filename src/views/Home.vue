@@ -1,6 +1,9 @@
 <template>
   <div class="home">
     <h1>Ejercicios de DAIMAPS</h1>
+    <p>
+      <a href="https://dadsigvis.conacyt.mx/daimaps-tutorial/">daimaps-tutorial</a>
+    </p>
 
     <!--el centro en coordenadas [x,y] , es decir [longitud,latitud]-->
     <dai-mapa :zoom="8" :centro="[-99.1332, 19.4326]">
