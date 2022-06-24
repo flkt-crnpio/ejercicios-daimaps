@@ -2,6 +2,9 @@
   <div class="home">
     <h1>Ejercicio 2</h1>
     <p>
+      <a href="https://mappinggis.com/2018/03/como-anadir-mapas-base-en-qgis-3-0-openstreetmap-google-carto-stamen/">links de capas xyz</a>
+    </p>
+    <p>
       extension: 
       -99.26562067928639,
       19.27666556862522,
